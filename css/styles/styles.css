@@ -1,0 +1,37 @@
+/*div
+{
+  background-color: #E4F5F9;
+}*/
+body
+{
+  margin-top: 0;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+.top-container {
+  height: 200px;
+  width: 200px;
+  background-color: green;
+  position: absolute;
+  left: 400px;
+  top:400px;
+}
+
+.middle-container {
+  height: 200px;
+  width: 200px;
+  background-color: cyan;
+  position: absolute;
+  left:  200px;
+  top:200px;
+
+}
+
+.bottom-container {
+  height: 200px;
+  width: 200px;
+  background-color: yellow;
+}
